@@ -1,4 +1,4 @@
-[{[{
+[{
     "quoteText": "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "quoteAuthor": "Thomas Edison"
 }, {
@@ -16261,4 +16261,4 @@
 }, {
     "quoteText": "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
     "quoteAuthor": "Tom Jackson"
-}]}]
+}]
