@@ -1,5 +1,5 @@
 #Database Quotes JSON
-##Free JSON file with more than 5000+ famous quotes.
+##JSON file with more than 5000+ famous quotes.
 
 ###some example on how to work on this JSON quotes file
 
