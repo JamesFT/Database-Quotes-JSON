@@ -1,4 +1,4 @@
-var DATA = [{
+[{
 "quoteText": "Genius is one percent inspiration and ninety-nine percent perspiration.",
 "quoteAuthor": "Thomas Edison"
 }, {
@@ -1929,7 +1929,7 @@ var DATA = [{
 "quoteAuthor": "Arthur Schopenhauer"
 }, {
 "quoteText": "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
 "quoteAuthor": "Sai Baba"
@@ -2691,7 +2691,7 @@ var DATA = [{
 "quoteAuthor": "Lao Tzu"
 }, {
 "quoteText": "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
 "quoteAuthor": "Anatole France"
@@ -3102,7 +3102,7 @@ var DATA = [{
 "quoteAuthor": "Anais Nin"
 }, {
 "quoteText": "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
 "quoteAuthor": "Daisaku Ikeda"
@@ -3480,7 +3480,7 @@ var DATA = [{
 "quoteAuthor": "Walter Anderson"
 }, {
 "quoteText": "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "Everything that irritates us about others can lead us to an understanding about ourselves.",
 "quoteAuthor": "Carl Jung"
@@ -6768,7 +6768,7 @@ var DATA = [{
 "quoteAuthor": "Sophocles"
 }, {
 "quoteText": "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
 "quoteAuthor": "Anne Bronte"
@@ -6837,7 +6837,7 @@ var DATA = [{
 "quoteAuthor": "Buddha"
 }, {
 "quoteText": "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "The only real valuable thing is intuition.",
 "quoteAuthor": "Albert Einstein"
@@ -7017,7 +7017,7 @@ var DATA = [{
 "quoteAuthor": "Frederick Douglass"
 }, {
 "quoteText": "The most decisive actions of our life... are most often unconsidered actions.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "As we grow as unique persons, we learn to respect the uniqueness of others.",
 "quoteAuthor": "Robert Schuller"
@@ -10464,7 +10464,7 @@ var DATA = [{
 "quoteAuthor": "Plutarch"
 }, {
 "quoteText": "The most decisive actions of our life... are most often unconsidered actions.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "If I know what love is, it is because of you.",
 "quoteAuthor": "Hermann Hesse"
@@ -13017,7 +13017,7 @@ var DATA = [{
 "quoteAuthor": ""
 }, {
 "quoteText": "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
 "quoteAuthor": "Confucius"
@@ -14028,7 +14028,7 @@ var DATA = [{
 "quoteAuthor": "Jean de la Fontaine"
 }, {
 "quoteText": "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "Why worry about tomorrow, when today is all we have?",
 "quoteAuthor": ""
@@ -14283,7 +14283,7 @@ var DATA = [{
 "quoteAuthor": "Rabbi Hillel"
 }, {
 "quoteText": "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-"quoteAuthor": "Andre Gide"
+"quoteAuthor": "André Gide"
 }, {
 "quoteText": "In separateness lies the world's great misery, in compassion lies the world's true strength.",
 "quoteAuthor": "Buddha"
