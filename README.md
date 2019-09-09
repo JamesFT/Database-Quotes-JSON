@@ -1,23 +1,16 @@
-#Database Quotes JSON
-##JSON file with more than 5000+ famous quotes.
+# Database-Quotes-JSON
+JSON file with more than 5000+ famous quotes. (quotes.json)
 
-###Some example on how to work on this JSON quotes file
+Quotations ( Text ---> image ) 
+ -The text is converted to an image
 
-```javascript
-//return array of all quotes with 12 words max
-var filePath = "quotes.js";
-$.getJSON(filePath).done(function (data) {
-	return data.filter(function (o) {
-		return o.quoteText.split(" ").length <= 12;
-	});
-});
+(quotes.json "text" , bg.png "background image",font Roboto-Black.ttf "font") →  quotes (image)
 
-//return array of all quotes of Buddha
-var filePath = "quotes.js";
-	$.getJSON(filePath).done(function (data) {
-		return data.filter(function (o) {
-			return o.quoteAuthor === "Buddha";
-		});
-	});
-}
-```
+Installation
+ ---------
+       $ pip install nider 👍
+       $ python3 img_return.py 👍
+       
+- https://www.facebook.com/Quotation.ToD
+       
+
