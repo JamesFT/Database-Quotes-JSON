@@ -1,7 +1,7 @@
-#Database Quotes JSON
-##JSON file with more than 5000+ famous quotes.
+# Database Quotes JSON
+JSON file with more than 5000+ famous quotes.
 
-###Some example on how to work on this JSON quotes file
+## Some example on how to work on this JSON quotes file
 
 ```javascript
 //return array of all quotes with 12 words max
